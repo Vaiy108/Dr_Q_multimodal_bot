@@ -1,0 +1,7 @@
+streamlit
+torch
+sentence-transformers
+transformers
+datasets
+Pillow
+openai
